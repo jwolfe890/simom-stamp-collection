@@ -1,6 +1,6 @@
 Simon's Stamp Collection App
 ---
 
-# About 
+# About Simon's Stamps
 
-Stuff about Simon's stamps here
+The stamps are too old to use. 
