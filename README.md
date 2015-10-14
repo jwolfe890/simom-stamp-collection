@@ -3,4 +3,4 @@ Simon's Stamp Collection App
 
 # About 
 
-Stuff about Simon's stamps here
+This is the best stamp collection of the ages. 
